@@ -14,7 +14,7 @@ To analyze ICMP and DNS traffic using Kali Linux and Wireshark.
 ### 1. Checked Network Interface
 Used:
 
-### 2. Generated Traffic 
+### 2. Generated Traffic
 ### 3. Captured Traffic in Wireshark
 Captured packets on the eth0 interface.
 
