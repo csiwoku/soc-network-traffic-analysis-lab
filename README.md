@@ -31,3 +31,9 @@ Understanding ICMP and DNS traffic helps detect:
 - Network reconnaissance
 - DNS tunneling
 - Ping sweeps
+## Skills Demonstrated
+- Network traffic analysis
+- Packet inspection using Wireshark
+- ICMP and DNS traffic filtering
+- Linux command line usage
+- Basic SOC investigation workflow
